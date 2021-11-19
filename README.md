@@ -2,6 +2,8 @@
 ![](https://img.shields.io/badge/technology-xxx,%20xxx-blue)
 ![](https://img.shields.io/badge/development%20year-2021-orange)
 
+- http://tutorials.jenkov.com/java-json/jackson-installation.html / 2019
+
 ## Outline
 
 - jackson-json-by-jenkov
