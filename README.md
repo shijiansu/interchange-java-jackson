@@ -1,14 +1,6 @@
-# interchange-java-jackson
-
 ![](https://img.shields.io/badge/language-xxx-blue)
 ![](https://img.shields.io/badge/technology-xxx,%20xxx-blue)
 ![](https://img.shields.io/badge/development%20year-2021-orange)
-
-![](https://img.shields.io/github/languages/top/shijiansu/interchange-java-jackson)
-![](https://img.shields.io/github/languages/count/shijiansu/interchange-java-jackson)
-![](https://img.shields.io/github/languages/code-size/shijiansu/interchange-java-jackson)
-![](https://img.shields.io/github/repo-size/shijiansu/interchange-java-jackson)
-![](https://img.shields.io/github/last-commit/shijiansu/interchange-java-jackson?color=red)
 
 ## Outline
 
